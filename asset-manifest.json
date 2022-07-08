@@ -1,15 +1,15 @@
 {
   "main.css": "/Task-Tracker-React/static/css/main.95488e62.chunk.css",
-  "main.js": "/Task-Tracker-React/static/js/main.6aa3294b.chunk.js",
-  "main.js.map": "/Task-Tracker-React/static/js/main.6aa3294b.chunk.js.map",
+  "main.js": "/Task-Tracker-React/static/js/main.899dad9f.chunk.js",
+  "main.js.map": "/Task-Tracker-React/static/js/main.899dad9f.chunk.js.map",
   "static/js/1.f99921d6.chunk.js": "/Task-Tracker-React/static/js/1.f99921d6.chunk.js",
   "static/js/1.f99921d6.chunk.js.map": "/Task-Tracker-React/static/js/1.f99921d6.chunk.js.map",
-  "static/js/2.edbb3e7f.chunk.js": "/Task-Tracker-React/static/js/2.edbb3e7f.chunk.js",
-  "static/js/2.edbb3e7f.chunk.js.map": "/Task-Tracker-React/static/js/2.edbb3e7f.chunk.js.map",
+  "static/js/2.b64b16b7.chunk.js": "/Task-Tracker-React/static/js/2.b64b16b7.chunk.js",
+  "static/js/2.b64b16b7.chunk.js.map": "/Task-Tracker-React/static/js/2.b64b16b7.chunk.js.map",
   "runtime~main.js": "/Task-Tracker-React/static/js/runtime~main.957e40c4.js",
   "runtime~main.js.map": "/Task-Tracker-React/static/js/runtime~main.957e40c4.js.map",
   "static/css/main.95488e62.chunk.css.map": "/Task-Tracker-React/static/css/main.95488e62.chunk.css.map",
   "index.html": "/Task-Tracker-React/index.html",
-  "precache-manifest.0faee37a1e0cfafbf950e9ae72e59f3c.js": "/Task-Tracker-React/precache-manifest.0faee37a1e0cfafbf950e9ae72e59f3c.js",
+  "precache-manifest.28a450c815f83045fdf001bb5e00aa37.js": "/Task-Tracker-React/precache-manifest.28a450c815f83045fdf001bb5e00aa37.js",
   "service-worker.js": "/Task-Tracker-React/service-worker.js"
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f24292efc78000946968",
+    "revision": "6aa3294b2f83383e6cc9",
     "url": "/Task-Tracker-React/static/css/main.95488e62.chunk.css"
   },
   {
-    "revision": "f24292efc78000946968",
-    "url": "/Task-Tracker-React/static/js/main.f24292ef.chunk.js"
+    "revision": "6aa3294b2f83383e6cc9",
+    "url": "/Task-Tracker-React/static/js/main.6aa3294b.chunk.js"
   },
   {
     "revision": "f99921d68d7ebc942685",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Task-Tracker-React/static/js/runtime~main.957e40c4.js"
   },
   {
-    "revision": "90b1ecef9b2cdd7d73b9395dff668ccc",
+    "revision": "00117d52e35cdd98eae2489cf263df61",
     "url": "/Task-Tracker-React/index.html"
   }
 ];
